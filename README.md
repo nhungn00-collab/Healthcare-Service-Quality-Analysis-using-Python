@@ -29,4 +29,4 @@ Optimizing staffing allocation and reducing excessive working hours can improve 
 - `.ipynb` – Python analysis notebook  
 
 ## Project Website
-👉 https://nhungn00-collab.github.io/Healthcare-Service-Quality-Analysis-using-Python/
+https://nhungn00-collab.github.io/Healthcare-Service-Quality-Analysis-using-Python/
